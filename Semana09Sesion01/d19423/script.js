@@ -86,6 +86,11 @@ function getFetch(){
 
 getFetch();
 
+<<<<<<< HEAD
+=======
+console.log("Fin de la aplicacion");
+
+>>>>>>> c9860a2b1c926b174fda00ac75fb06a9de73bb13
 
 
 let frmDatos =document.getElementById("frmDatos");
@@ -118,3 +123,7 @@ frmDatos.addEventListener("submit", (e)=>{
 
 
 console.log("Fin de la aplicacion");
+<<<<<<< HEAD
+=======
+
+>>>>>>> c9860a2b1c926b174fda00ac75fb06a9de73bb13
